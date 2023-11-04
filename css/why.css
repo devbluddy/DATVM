@@ -1,0 +1,37 @@
+.info-banner{
+    width: 32rem;
+    height: 17rem;
+    top: 25%;
+    left: 7.5%;
+}
+.whyis{
+    width: 55rem;
+    height: 25rem;
+}
+.whyis li{
+    list-style: disc;
+}
+.card-1,
+.card-2,
+.card-3{
+    margin-left: 27%;
+}
+.card{
+    border: 0;
+}
+.list-resons 
+{
+    margin-left: 7.5%;
+}
+.list-service{
+    margin-left: 7.5%;
+}
+.list-project{
+    margin-left: 7.5%;
+    width: 87%;
+}
+.card-project{
+    padding-top: 20%;
+    padding-left: 14%;
+    width: 85%;
+}

@@ -1,0 +1,187 @@
+html{
+    font-size: 20px;
+}
+.menu{
+    text-decoration: none;
+    color: black;
+}
+.list-menu{
+    position: absolute;
+    top: 7%;
+}
+.logo{
+    position: absolute;
+    width: 8rem;
+    height: 4.5rem;
+    left: 7.5%; 
+}
+.main_menu{
+    position: absolute;
+    width: 60rem;
+    height: 1.5rem;
+    right: 4%;
+}
+.menu{
+    margin-right: 3.5rem;
+    font-weight: bold;
+    color: white;
+}
+.content-header{
+    position: absolute;
+    color: white;
+    width: 30rem;
+    height: 13.5rem;
+    top: 31%;
+    left: 7.5%;
+}
+.content-header h1{
+    font-size: 2.25rem;
+}
+.content-header p{
+    font-size: 1rem;
+}
+.btn-menu{
+    border: 0rem;
+    width: 8rem;
+    height: 2rem;
+    font-weight: bold;
+    color: #528bf2;
+}
+.info-wc{
+    text-align: center;
+    font-weight: bold;
+    width: 45rem;
+    height: 5rem;
+    font-size: 1rem;
+    margin: 2.5rem 25rem;
+}
+.info-wc p{
+    margin: 0;
+}
+.head-wc{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 5rem;
+}
+.info-end{
+    position: relative;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+.img-thing{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
+.head-end{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-left: 22rem;
+    width: 46rem
+}
+.thing{
+    width: 34rem;
+    margin-left: 7.5%;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.thing p{
+    margin-left: 1.5rem;
+}
+.services{
+    margin-bottom: 7.5rem;
+}
+.services h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.all-card{
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    margin-right: 8.5rem;
+}
+.card:last-child{
+    margin-right:0;
+}
+
+.card-img-top{
+    width: 30%;
+    height: 5rem;
+    margin-bottom: 1rem;
+}
+.card-head{  
+    font-weight: bold;
+    color: #5c8ccc;
+}
+.card-text{
+    font-size: 1rem;
+    font-weight: bold;
+    color: #5c8ccc;
+}
+.reseach{
+    position: relative;
+}
+.reseach h1{
+    text-align: center;
+}
+.reseach .head-sd> p{
+    text-align: center;
+    width: 50rem;
+    margin-left: 19.5rem;
+}
+
+.btn-sd{
+    position: absolute;
+    left: 43%;
+    border: 0rem;
+    width: 10rem;
+    height: 2rem;
+    background-color: #013c8c;
+    color: white;
+}
+.box{
+    width: 35rem;
+    height: 17.5rem;
+    box-shadow: 1px 0px 6px 1px #828282;
+}
+.inside-box{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.rs{
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
+.development{
+    background-color: #013c8c; color: white;
+    position: absolute;
+    top: 35%;
+    left: 38%;
+}
+.inside-box> p{
+    width: 18rem;
+    margin-left: 2rem;
+}
+.img-rd{
+    position: absolute;
+    top: 0%;
+    left: 59%;
+}
+.btn-patner{
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid white;
+}
+.card-1:hover button,
+.card-2:hover button,
+.card-3:hover button{
+    display: block !important;
+}
