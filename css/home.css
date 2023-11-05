@@ -2,29 +2,15 @@ html{
     font-size: 20px;
 }
 .menu{
-    text-decoration: none;
-    color: black;
+    color: white;
 }
 .list-menu{
     position: absolute;
     top: 7%;
 }
-.logo{
-    position: absolute;
-    width: 8rem;
-    height: 4.5rem;
-    left: 7.5%; 
-}
+.logo,
 .main_menu{
     position: absolute;
-    width: 60rem;
-    height: 1.5rem;
-    right: 4%;
-}
-.menu{
-    margin-right: 3.5rem;
-    font-weight: bold;
-    color: white;
 }
 .content-header{
     position: absolute;
@@ -141,11 +127,6 @@ html{
 .btn-sd{
     position: absolute;
     left: 43%;
-    border: 0rem;
-    width: 10rem;
-    height: 2rem;
-    background-color: #013c8c;
-    color: white;
 }
 .box{
     width: 35rem;

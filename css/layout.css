@@ -18,3 +18,30 @@ html{
 .w-19{
     width: 19rem;
 }
+.btn-sd{
+    border: 0rem;
+    width: 10rem;
+    height: 2rem;
+    background-color: #013c8c;
+    color: white;
+}
+.menu{
+    text-decoration: none;
+    color: black;
+}
+.main_menu{
+    margin-left: 12.5rem;
+    width: 60rem;
+    height: 1.5rem;
+    right: 4%;
+}
+.menu{
+    margin-right: 3.5rem;
+    font-weight: bold;
+    color: #34295a;
+}
+.logo{
+    width: 8rem;
+    height: 4.5rem;
+    margin-left: 7.5%; 
+}

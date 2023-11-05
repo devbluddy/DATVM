@@ -1,0 +1,24 @@
+.btn-w{
+    border: 0rem;
+    width: 10rem;
+    height: 2rem;
+    background-color: #013c8c;
+    color: white;
+}
+.our-work{
+    margin-left: 7.5%;
+}
+.our-work img{
+    margin-left: 10rem;
+}
+.my-card{
+    border: 0;
+}
+.list-recent{
+    margin-left: 7.5%;
+    width: 87%;
+}
+.list-proprietary{
+    margin-left: 7.5%;
+    width: 87%;
+}
