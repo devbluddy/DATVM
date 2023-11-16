@@ -10,7 +10,7 @@ html{
     position: relative;
 }
 .clp{
-    color: #5c8ccc;
+    color:#281d52;
 }
 .w-30{
     width: 30%;
@@ -22,12 +22,8 @@ html{
     border: 0rem;
     width: 10rem;
     height: 2rem;
-    background-color: #013c8c;
+    background-color: #281d52;
     color: white;
-}
-.menu{
-    text-decoration: none;
-    color: black;
 }
 .main_menu{
     margin-left: 12.5rem;
@@ -36,6 +32,7 @@ html{
     right: 4%;
 }
 .menu{
+    text-decoration: none;
     margin-right: 3.5rem;
     font-weight: bold;
     color: #34295a;
@@ -44,4 +41,22 @@ html{
     width: 8rem;
     height: 4.5rem;
     margin-left: 7.5%; 
+}
+.main_menu-footer{
+    width: 60rem;
+    height: 1.5rem;
+    right: 4%;
+}
+.menu-footer{
+    text-decoration: none;
+    margin-right: 3.5rem;
+    font-weight: bold;
+    color: #34295a;
+}
+.logo-footer{
+    width: 5%;
+    margin-left: 7.5%; 
+}
+.contact-footer{
+    width: 30%;
 }

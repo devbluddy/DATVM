@@ -1,0 +1,22 @@
+.title1,
+.title2{
+    margin-left: 21rem;
+}
+.title1{
+    margin-top: 11rem;
+}
+.btn-ct{
+    background-color: white;
+    color: #34295a;
+}
+.form-contact{
+    margin-left: 7.5%;
+    width: 80%;
+}
+.inp-text{
+    height: 3rem;
+}
+.inp-contact{
+    border: 0;
+    background-color: #e6e6e6;
+}
