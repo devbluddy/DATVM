@@ -60,3 +60,9 @@ html{
 .contact-footer{
     width: 30%;
 }
+.container-box{
+    /* width: 73.4375% !important; */
+    margin-left:12.75rem;
+    margin-right: 12.75rem;
+    /* margin: auto; */
+}

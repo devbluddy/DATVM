@@ -34,21 +34,19 @@ html{
     color: #528bf2;
 }
 .info-wc{
-    text-align: center;
     font-weight: bold;
-    width: 45rem;
-    height: 5rem;
-    font-size: 1rem;
-    margin: 2.5rem 25rem;
 }
-.info-wc p{
-    margin: 0;
+.info-wc .p2{
+    margin-left: 25%;
 }
 .head-wc{
-    text-align: center;
     font-size: 2.5rem;
     font-weight: bold;
-    margin-top: 5rem;
+    
+}
+.slide{
+    margin-left: 7.5%;
+    width: 87%;
 }
 .info-end{
     position: relative;
@@ -98,7 +96,7 @@ html{
     margin-right:0;
 }
 
-.card-img-top{
+.card-img-top-home{
     width: 30%;
     height: 5rem;
     margin-bottom: 1rem;
